@@ -1,5 +1,10 @@
 # g2opy
 
+## Incase of trouble in installation 
+https://www.programmersought.com/article/77053445749/ 
+https://githubmemory.com/repo/uoip/g2opy/issues - Check install on Ubuntu 20.04 issue 
+
+
 This is a python binding of graph optimization C++ framework [g2o](https://github.com/RainerKuemmerle/g2o).
 
 > g2o is an open-source C++ framework for optimizing graph-based nonlinear error functions. g2o has been designed to be easily extensible to a wide range of problems and a new problem typically can be specified in a few lines of code. The current implementation provides solutions to several variants of SLAM and BA.  
